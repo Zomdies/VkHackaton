@@ -1,0 +1,8 @@
+What is your name?.Как тебя зовут?.your.is.What.name?
+My name is Alexander.Меня зовут Александр.My.Alexander.is.name
+It is rainy today.Сегодня дождливо.It.is.rainy.today
+What is wrong with you?.Да что с тобой такое?.What is.wrong.with.you?
+Are you kidding me?.Ты что, издеваешься?.Are.you.kidding.me?
+I will find it.Я найду его.I.will.find.it
+I was wrong about it.Я был неправ насчет этого.I.was.wrong.about.it
+He try to escape.Он пытается сбежать.He.try.to.escape
